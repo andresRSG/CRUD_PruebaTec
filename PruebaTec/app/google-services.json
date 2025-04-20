@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875384220795",
+    "project_id": "pruebatecandroid",
+    "storage_bucket": "pruebatecandroid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875384220795:android:cd910b46741282b86d46de",
+        "android_client_info": {
+          "package_name": "com.example.pruebatec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlNHtOLanUKiD6j9YL8w1FKoONuvGcKco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
